@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    background-color: #1A1D29;
+}
+.logo-nav{
+    width: 97px;
+    height: 57px;
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+.link-nav{
+    text-transform: uppercase;
+    color: white;
+    position: absolute;
+    font-weight: 500;
+    left: 212px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.42px;
+    line-height: 1.08;
+    margin-left: 8px;
+    padding: 2px 0px;
+    top:32px;
+}
+.link-nav2{
+    text-transform: uppercase;
+    color: white;
+    position: absolute;
+    left: 337px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.42px;
+    line-height: 1.08;
+    margin-left: 8px;
+    padding: 2px 0px;
+    top:32px;
+}
+.fa-home{
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 185px;
+    top: 35px;
+}
+.fa-search{
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 310px;
+    top: 35px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    border:0;
+    position: relative;
+    padding-bottom: 7px;
+}
+a::after{
+    content: " ";
+    width: 0%;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    transition: 0.3s ease-in-out;
+}
+a:hover::after{
+    width: 100%;
+}

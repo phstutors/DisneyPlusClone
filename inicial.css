@@ -1,0 +1,79 @@
+.entrar{
+    background-color: transparent;
+    text-decoration: none;
+    color: white;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    position: relative;
+    top: -1050px;
+    left: 92.5%;
+    letter-spacing: 1.5px;
+    font-family: Avenir Roman,sans-serif;
+    border-radius:5px;
+    border: 1px solid white;
+}
+.entrar:hover{
+    color: black;
+    background-color: white;
+    animation: 0.2s;
+}
+.main{
+    background-image: url(https://cannonball-cdn.bamgrid.com/assets/originals/4Up-Combo-Desktop-BRA-pt-NEW-optim-optim.jpg);
+    position: relative;
+    width: 114%;
+    left: -268px;
+    height: 1080px;
+    pointer-events: none;
+}
+body{
+    margin: 0;
+    background-color: #040714;
+}
+img{
+    position: relative;
+    top: -800px;
+    left: 160px;
+    width: 380px;
+    height: 155px;
+}
+h2{
+    font-family: Avenir Roman,sans-serif;
+    color: white;
+    position: relative;
+    top: -800px;
+    left: 100px;
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 1.2px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+}
+.assine{
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 4px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    text-decoration: none;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all .2s ease 0s;
+    color: #f9f9f9;
+    background-color: #0063e5;
+    border: 1px solid transparent;
+    padding: 17px 15px;
+    padding-left: 200px;
+    padding-right: 200px;
+    position: relative;
+    top: -730px;
+    left: -310px;
+    text-transform: uppercase;
+    font-family: Avenir Roman,sans-serif;
+}
+.assine:hover{
+    background-color: #1E90FF;
+}

@@ -8,7 +8,7 @@
     padding-bottom: 9px;
     position: relative;
     top: -1050px;
-    left: 92.5%;
+    left: 91%;
     letter-spacing: 1.5px;
     font-family: Avenir Roman,sans-serif;
     border-radius:5px;
@@ -22,8 +22,8 @@
 .main{
     background-image: url(https://cannonball-cdn.bamgrid.com/assets/originals/4Up-Combo-Desktop-BRA-pt-NEW-optim-optim.jpg);
     position: relative;
-    width: 114%;
-    left: -268px;
+    width: 134%;
+    left: -540px;
     height: 1080px;
     pointer-events: none;
 }
@@ -33,8 +33,8 @@ body{
 }
 img{
     position: relative;
-    top: -800px;
-    left: 160px;
+    top: -770px;
+    left: 20px;
     width: 380px;
     height: 155px;
 }
@@ -42,8 +42,8 @@ h2{
     font-family: Avenir Roman,sans-serif;
     color: white;
     position: relative;
-    top: -800px;
-    left: 100px;
+    top: -1020px;
+    left: 25px;
     font-size: 24px;
     line-height: 1.2;
     letter-spacing: 1.2px;
